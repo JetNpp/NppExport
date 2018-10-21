@@ -10,6 +10,9 @@ Here only provided precomiled dll. [Original Author's Homepage](https://sourcefo
 - copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\ for x86 version).
 
 ## change log
+### 0.2.8.8 2018-10-21
+- +. fix : html syntax highlighting not function well
+
 ### 0.2.8.7 2018-10-12
 - +. build x86 & x64
 
