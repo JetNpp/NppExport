@@ -6,4 +6,4 @@
 |NppExport(x64).dll|windows,x64|
 
 **Note**
-rename NppExport(x64).dll to NppExport.dll as exact with folder name.
+> rename ~~NppExport(x64).dll~~ to **NppExport.dll** as exact with folder name.
