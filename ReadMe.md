@@ -7,7 +7,7 @@ Here only provided precomiled dll. [Original Author's Homepage](https://sourcefo
 
 ## install
 - install [Visual C++ Redistributable Packages for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=53587)
-- copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\ for x86 version).
+- copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\NppExport\ for x86 version).
 
 ## change log
 ### 0.2.8.9 2019-07-18
